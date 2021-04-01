@@ -1,0 +1,6 @@
+01.04.2021:
+habe gestern den z weiten Probedruck bekommen.
+Von der Form her müsste es ziemlich gut passen.
+Die Zellabstützung ist mit 0,4mm schon arg dünn. Hier sollte ich auf 0,8 gehen. Genauso zwischen den Zellen falls es bisher nicht so war.
+Die Zellen passen leider nicht in die Löcher. Also Radius doch wieder bissle erhöhen.
+Bei den Schraublöchern aufpassen, hier habe ich glaube ich Radius und Durchmesser verwechselt...
